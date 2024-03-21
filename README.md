@@ -3,7 +3,7 @@
 
 - 🏢 Atualmente estou como CTO na **[VIK](https://vik.app).**
 - ⚙️ Eu uso diariamente: `.rb`, `.py`, `.md`
-- 👨‍💻 Projetos em construção: [Python365Dias](https://alancria.xyz/python-365-dias)
+- 👨🏾‍💻 Projetos em construção: [Python365Dias](https://alancria.xyz/python-365-dias)
 
 ### Fala comigo:
 &nbsp; &nbsp; &nbsp;
