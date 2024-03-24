@@ -4,7 +4,6 @@ I'm Alan, a Brazilian IndieHacker.
 
 - 🏢 Currently, I'm the CTO at **[VIK](https://vik.app)**
 - ⚙️ I use daily: `.rb`, `.py`, `.md`
-- 👨🏾‍💻 In progress projects: [Python365Dias](https://alancria.xyz/python-365-dias)
 
 ## My open source projects
 
