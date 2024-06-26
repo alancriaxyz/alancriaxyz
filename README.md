@@ -3,7 +3,7 @@
 I'm Alan, a Brazilian IndieHacker.
 
 - 🏢 Currently, I'm the CTO at **[VIK](https://vik.app)**
-- ⚙️ I use daily: `.rb`, `.py`, `.md`
+- ⚙️ I use daily: `.rb`, `.py`, `.md`, `.svelte`
 
 ## My open source projects
 
