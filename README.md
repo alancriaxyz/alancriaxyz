@@ -1,6 +1,6 @@
 ## Hey buddy, all good? 👊🏽
 
-I'm Alan, a Brazilian IndieHacker.
+I'm Alan, a Brazilian Indie Hacker.
 
 - 🏢 Currently, I'm the CTO at **[VIK](https://vik.app)**
 - ⚙️ I use daily: `.rb`, `.py`, `.md`, `.svelte`
